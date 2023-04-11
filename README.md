@@ -1,4 +1,4 @@
-# StonkFlow&trade; - Stock Prediction Using TensorFlow (WIP)
+# StonkFlow&trade; - Stock Analysis Using TensorFlow (WIP)
 
 ![stonks](./stonks.gif)
 
